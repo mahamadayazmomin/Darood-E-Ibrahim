@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main_div {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Darood {
+    width: 60vw;
+    height: 60vh;
+    text-align: center;
+    font-size: 40px;
+    color: darkgreen;
+}
